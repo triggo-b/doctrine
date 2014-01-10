@@ -2,3 +2,5 @@
 .git/
 vendor/
 composer.lock
+keys
+keys.pub
