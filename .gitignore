@@ -1,4 +1,6 @@
-.git/
 .idea/
-composer.lock
+.git/
 vendor/
+composer.lock
+keys
+keys.pub
